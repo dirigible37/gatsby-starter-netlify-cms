@@ -3,6 +3,8 @@ templateKey: blog-post
 title: First Post
 date: 2019-05-28
 featuredpost: false
+featuredimage: /img/logo.png
+description: First Post
 tags:
   - random
 ---
