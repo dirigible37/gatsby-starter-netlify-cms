@@ -1,8 +1,7 @@
 ---
-title: About Me
-layout: layouts/base.njk
-subtitle: Learn more about me!
-published: true
+templateKey: 'about-page'
+path: /about
+title: About our values
 ---
 
 ## Work Experience
