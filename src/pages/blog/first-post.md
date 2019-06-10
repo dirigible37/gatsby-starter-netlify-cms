@@ -1,13 +1,10 @@
 ---
 templateKey: blog-post
-title: Blog Post 0
-date: 2016-12-17T15:04:10.000Z
+title: First Post
+date: 2019-05-28
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
-  - flavor
-  - tasting
+  - random
 ---
 
 Well, this is my first blog post! I'm hoping to get some tags and organization in the future, but I decided I was putting up too many roadblocks to get started blogging. 
